@@ -8,9 +8,9 @@ inputs:
       required: true
       default: "World"
 
-runs:
-    uses: "docker"
-    image: "Dockerfile"
+# runs:
+#     uses: "docker"
+#     image: "Dockerfile"
 
 branding:
     icon: "mic"
